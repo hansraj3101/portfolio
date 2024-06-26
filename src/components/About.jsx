@@ -9,51 +9,43 @@ function About() {
       <div>
         <h1 className="text-3xl font-bold mb-5">About</h1>
         <p>
-          Hello, I'm Akhil, a passionate Web developer with a keen eye for MERN
+          Hello, I'm Hans Raj, a passionate Web developer with a keen eye for MERN
           Stack . With a background in IT, I strive to create impactful and
           visually stunning Software solutions that leave a lasting impression.
         </p>
         <br />
         <h1 className="text-green-600 font-semibold text-xl">
-          Education & Training
+          Education Details
         </h1>
         <span>
-          [Degree/Certification], [Institution], [Year] [Degree/Certification],
-          [Institution], [Year] [Relevant Course], [Platform/Institution],
-          [Year]
-        </span>
+          [Btech in Computer Science & Engineering], [B P MANDAL COLLEGE OF ENGINEERING,MADHEPURA], [2020-2024] <br />
+          [12th ---- Zila school Saharsa,BSEB BOARD ------75PERCENTAGE] <br />
+          [10th ----Zila school Saharsa,BSEB BOARD  ------81PERCENTAGE         ]
+
+         </span>
         <br />
         <br />
         <h1 className="text-green-600 font-semibold text-xl">
           Skills & Expertise
         </h1>
         <span>
-          Proficient in [Programming Languages] Experienced with [Software
-          Tools/Technologies] Strong grasp of [Design Principles/Concepts]
-          Excellent problem-solving skills Effective communicator and
-          collaborator
+         Well Experience in Html,css,Javascript,React Js, Node Js,Express Js,MongoDB
         </span>
         <br />
         <br />
         <h1 className="text-green-600 font-semibold text-xl">
-          Professional Experience
+          Professional Experience as an Intern
         </h1>
         <span>
-          [Job Title], [Company/Organization], [Dates] [Brief description of
-          responsibilities and achievements] [Job Title],
-          [Company/Organization], [Dates] [Brief description of responsibilities
-          and achievements] [Freelance/Contract Work], [Client/Organization],
-          [Dates] [Brief description of projects and contributions]
+         [MERN STACK],[Company Name-CR IT SOLUTION SERVICES PVT.LTD]
+         [Codalaya ] <br />
+         [Frontend Web Developer],[Codalaya PVT LTD] <br />
+         [Python],[Polytropic PVT.LTD]
         </span>
+        
         <br />
-        <br />
-        <h1 className="text-green-600 font-semibold text-xl">
-          Achievements & Awards
-        </h1>
-        <span>
-          [Award/Recognition], [Organization/Institution], [Year] [Achievement],
-          [Organization/Platform], [Year]
-        </span>
+       
+        
         <br />
         <br />
         <h1 className="text-green-600 font-semibold text-xl">
@@ -61,7 +53,7 @@ function About() {
         </h1>
         <p>
           My mission is to leverage my skills and creativity to deliver
-          innovative [Your Field] solutions that exceed client expectations and
+          innovative Full Stack Developer that exceed client expectations and
           contribute positively to the digital landscape. I am committed to
           continuous learning and growth, always seeking new challenges and
           opportunities to expand my horizons.

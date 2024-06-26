@@ -1,10 +1,11 @@
 import React from "react";
-import java from "../../public/java.png";
+import tailwind from "../../public/tailwind.png"
 import python from "../../public/python.webp";
 import mongoDB from "../../public/mongodb.jpg";
 import express from "../../public/express.png";
 import reactjs from "../../public/reactjs.png";
 import nodejs from "../../public/node.png";
+
 function PortFolio() {
   const cardItem = [
     {
@@ -34,9 +35,10 @@ function PortFolio() {
     },
     {
       id: 6,
-      logo: java,
-      name: "Java",
+      logo: tailwind,
+      name: "tailwind",
     },
+    
   ];
   return (
     <div
@@ -60,13 +62,11 @@ function PortFolio() {
               <div>
                 <div className="px-2 font-bold text-xl mb-2">{name}</div>
                 <p className="px-2 text-gray-700">
-                  Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+                Coding like poetry should be short and concise
                 </p>
               </div>
               <div className=" px-6 py-4 space-x-3 justify-around">
-                <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold px-4 py-2 rounded">
-                  Video
-                </button>
+                
                 <button className="bg-green-500 hover:bg-green-700 text-white font-bold px-4 py-2 rounded">
                   Source code
                 </button>

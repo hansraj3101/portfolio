@@ -37,11 +37,9 @@ function Home() {
             </div>
             <br />
             <p className="text-sm md:text-md text-justify">
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-              Quisquam, recusandae consequatur. Accusamus sint libero eligendi
-              laborum fuga repudiandae? Asperiores tempore eos animi dolores
-              corrupti! Sint quos, mollitia architecto aliquam nesciunt, optio
-              cum delectus sit voluptatum aut ratione quaerat veniam aperiam!
+            To obtain a challenge position at a recognised firm where I may grow my knowledge,       ability & learnings.
+    Find a responsible job opportunity where I can put  my learning & skill to good use while contributing
+ to the compony's sucess.
             </p>
             <br />
             {/* social media icons */}
@@ -50,13 +48,13 @@ function Home() {
                 <h1 className="font-bold text-center ">Available on</h1>
                 <ul className="flex space-x-5">
                   <li>
-                    <a href="https://www.facebook.com/" target="_blank">
+                    <a href="https://www.facebook.com/rakeshr7418/" target="_blank">
                       <FaSquareFacebook className="text-2xl cursor-pointer" />
                     </a>
                   </li>
                   <li>
-                    <a href="https://www.linkedin.com/" target="_blank">
-                      <FaLinkedin className="text-2xl cursor-pointer" />
+                    <a href="https://www.linkedin.com/in/hans-raj-538011237/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+                    <FaLinkedin className="text-2xl cursor-pointer" />
                     </a>
                   </li>
                   <li>
@@ -65,7 +63,7 @@ function Home() {
                     </a>
                   </li>
                   <li>
-                    <a href="https://t.me/" target="_blank">
+                    <a href="https://t.me/hansraj7491" target="_blank">
                       <FaTelegram className="text-2xl cursor-pointer" />
                     </a>
                   </li>
